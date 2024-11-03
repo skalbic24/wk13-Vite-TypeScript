@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "Title": "The Avengers",
+      "Year": "2012",
+      "Poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqse_XSnkijWzY_FQrPgTiclx516ebb8npng8GBgTGiUBtJdth"
+    },
+    {
+      "id": "2",
+      "Title": "Jumanji",
+      "Year": "2017",
+      "Poster": "https://m.media-amazon.com/images/I/9132vbg-HLL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "3",
+      "Title": "Star Wars",
+      "Year": 2025,
+      "Poster": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/star_wars_logo.png"
+    },
+    {
+      "id": "4556",
+      "Title": "test 1",
+      "Year": 2025,
+      "Poster": "https://via.placeholder.com/300"
+    }
+  ]
+}
